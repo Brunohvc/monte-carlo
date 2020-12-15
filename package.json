@@ -7,7 +7,10 @@
     "@testing-library/react": "^11.2.2",
     "@testing-library/user-event": "^12.5.0",
     "react": "^17.0.1",
+    "react-bar-chart": "^0.1.2",
+    "react-charts": "^2.0.0-beta.7",
     "react-dom": "^17.0.1",
+    "react-easy-bar-chart": "0.0.2",
     "react-scripts": "4.0.1",
     "web-vitals": "^0.2.4"
   },
